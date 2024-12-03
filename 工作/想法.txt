@@ -1,0 +1,16 @@
+Robotics - ROS
+疑问：
+  1.特斯拉的ROS是怎么集成到项目里的？
+    特斯拉ROS Application开发流程和体验是什么样子的？
+  2.英伟达的ROS是怎么集成到项目里的？
+    英伟达ROS Application开发流程和体验是什么样子的?
+
+
+Integration:
+疑问:
+  1.持续集成里尽早发现问题当前做到了没有?
+    编译: Yes
+    质量: 一部分，如何扩大cover的范围
+
+    
+
