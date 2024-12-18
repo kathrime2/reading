@@ -28,7 +28,14 @@ Integration:
   4. 用AI scan完code之后，自动写出测试程序
 
 
-     
+个人:
+  帮haihe做更多执行，让他有时间去做更多思考
+  Robotics领域的更新.
+Robotics:
+  1. Robotics论坛有哪些，每天花2个小时逛Robotics论坛     
+     中美贸易战，世界认为中国已经崛起了，我们的优势搜索中国机器人论坛里讨论的话题，创新等。
 
+  特种机器人论坛:
+  https://www.ccf.org.cn/Chapters/TC/News_/2024-09-11/830736.shtml
   
 
