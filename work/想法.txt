@@ -4,6 +4,9 @@
 
 团队发展：
 
+行业趋势：
+  - Robotics
+  - 6G
 
 Robotics - ROS
 疑问：
