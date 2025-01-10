@@ -1,0 +1,11 @@
+1. 从github上下载某一个库(repository)
+   git clone git@github.com:kathrime2/reading.git
+   下载完了之后可以看到reading目录
+
+2. 将本地的文件提交到github上
+   cd reading
+   git add .
+   git commit -m "更新笔记"
+   git push origin HEAD:main
+
+3. 执行完第二步里的所有命令，刷新github, 就能看到更新了。
